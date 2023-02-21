@@ -6,7 +6,7 @@ import { Toggle } from "./components/toggle/Toggle";
 
 function App() {
   return (
-    <div className="container">
+    <div id={"container"}>
       <Profile />
       <Toggle />
       <SocialLinks />
