@@ -2,10 +2,10 @@ function Profile() {
   return (
     <div id="profile">
       <img
-        src="./src/assets/icon/avatar-light.png"
+        src="./src/assets/icon/avatar.png"
         alt="Foto de Diego Ceccon usando camisa preta, barba e cabelos no rosto"
       />
-      <p>@diguya</p>
+      <p>Diguya Developer</p>
     </div>
   );
 }
